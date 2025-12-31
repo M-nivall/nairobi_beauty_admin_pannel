@@ -71,5 +71,4 @@ include('dbconnect.php')
   <script src="js/todolist.js"></script>
   <!-- endinject -->
 </body>
-
 </html>
